@@ -98,12 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.display1,
             ),
-            Text('hellow windows'),
-<<<<<<< HEAD
-            Text('mac')
-=======
-            Text('hellow mac')
->>>>>>> d137dc7ddd09cf43388c87c5a3d43d8acf98a6b8
+            Text('hellow windows')
           ],
         ),
       ),
